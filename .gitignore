@@ -2,3 +2,9 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# node crap
+node_modules
+# static cache
+.elm-static-html/
+# generated static html!
+static.html
